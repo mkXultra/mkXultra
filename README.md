@@ -56,9 +56,8 @@ AWS, GCP, Docker, Linux, Windows
 
 ## 連絡先
 
-- Email: kaito.miyagi@example.com
-- Twitter: [@kaitomiyagi](https://twitter.com/kaitomiyagi)
-- GitHub: [kaitomiyagi](https://github.com/kaitomiyagi)
+- Twitter: [@mkXomj](https://x.com/mkXomj)
+- GitHub: [mkXultra](https://github.com/mkXultra)
 
 
 <!--
